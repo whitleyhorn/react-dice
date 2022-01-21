@@ -1,0 +1,17 @@
+/* CSS */
+
+.RollDice-button {
+    border-radius: 5px;     
+    background: purple;     
+    color: white;     
+    width: 122px;     
+    height: 33px;
+    margin-top: 20px;
+}
+
+.RollDice-container {
+    display: flex;     
+    width: 200px;     
+    margin: 0 auto;     
+    justify-content: space-around;
+}
